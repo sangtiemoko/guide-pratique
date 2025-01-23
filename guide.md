@@ -10,7 +10,7 @@ ajout de la partie communication
 Ajout de la partie gestion des taches
 
 ## Résolution des conflits
-(À compléter)
+Ajout de la partie  Résolution des conflits
 
  ## Conclusion
 (À compléter)
