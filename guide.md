@@ -4,7 +4,7 @@
 Ce guide fournit des conseils essentiels pour une collaboration efficace.
 
 ## Communication
-(À compléter)
+ajout de la partie communication
 
  ## Gestion des tâches
 (À compléter)
