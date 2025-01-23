@@ -7,7 +7,7 @@ Ce guide fournit des conseils essentiels pour une collaboration efficace.
 ajout de la partie communication
 
  ## Gestion des tâches
-(À compléter)
+Ajout de la partie gestion des taches
 
 ## Résolution des conflits
 (À compléter)
